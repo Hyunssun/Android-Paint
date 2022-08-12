@@ -1,4 +1,4 @@
-# android-paint
+# Android-Paint
 Android Studio Java 그림판
 
 https://hyunsun99.tistory.com/47
